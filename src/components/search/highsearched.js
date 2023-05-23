@@ -4,7 +4,7 @@ const highsearched = () => {
   return (
     <>
         <h1 className=" mt-10 text-center text-2xl font-bold text-gray-900 sm:text-3xl">
-          Most Searched Product on Our Site
+          Most Searched Product
         </h1>
         <div className="grid grid-cols-3 px-10 my-10">
             <a href="#" className="group block overflow-hidden mx-5">
