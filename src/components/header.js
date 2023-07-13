@@ -49,12 +49,11 @@ const header = () => {
                 News
                 </a>
 
-                <a
-                href="/products"
+                <NavLink to="/products"
                 className="block h-16 border-b-4 border-transparent leading-[4rem] hover:border-current hover:text-red-700"
                 >
                 Products
-                </a>
+                </NavLink>
 
                 <a
                 href="/contact"
